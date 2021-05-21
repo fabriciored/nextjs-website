@@ -12,12 +12,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <div className={styles.info}>
-          <Image
-            src="/../public/fabricio.png"
-            alt="Picture of the author"
-            width={600}
-            height={600}
-          />
+          <img src="https://avatars.githubusercontent.com/u/61992729?v=4"></img>
 
           <div className={styles.links}>
             <p>
